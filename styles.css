@@ -1,6 +1,10 @@
 /* This is a comment */
 #title {
     color: blue;
+    border-color: black;
+    border-width: 5px;
+    border-style: dotted;
+    border-radius: 10px;
 }
 
 .myform {
