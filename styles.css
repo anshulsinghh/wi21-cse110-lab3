@@ -1,10 +1,10 @@
 /* This is a comment */
 #title {
-
+    color: blue;
 }
 
 .myform {
-
+    color: rgb(255,0,0);
 }
 
 * {
@@ -12,7 +12,7 @@
 }
 
 header {
-
+    color: rgba(255, 100, 255, 50)
 }
 
 a[href="https://na.leagueoflegends.com/en-us/"] {
@@ -24,15 +24,15 @@ a:hover {
 }
 
 h2, h3 {
-
+    color: #FF00FF
 }
 
 div i {
-
+    color: hsl(184, 100%, 50%);
 }
 
 div > b {
-
+    background-color:hsla(120,60%,70%,0.3);
 }
 
 ul ~ p {
