@@ -49,7 +49,11 @@ a[href="https://na.leagueoflegends.com/en-us/"] {
 }
 
 a:hover {
-    
+    color: pink;
+}
+
+a:active {
+    color: red;
 }
 
 h2, h3 {
