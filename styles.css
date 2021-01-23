@@ -16,6 +16,8 @@
     padding-right: 5px;
     text-decoration: underline;
     text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    display: inline;
 }
 
 .myform {
@@ -23,6 +25,9 @@
     font-size: 100%;
     margin: 50px 50px 50px 50px;
     padding: 50px 50px 50px 50px;
+    display: inline-block;
+    min-width: 50%;
+    max-width: 100%;
 }
 
 * {
